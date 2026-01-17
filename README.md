@@ -27,3 +27,5 @@ The application interface displays all chat messages in a dedicated message area
 This task helped me gain practical exposure to real-time web technologies and understand how frontend and backend systems interact continuously. I learned how event-driven communication works, how Socket.IO manages client-server connections, and how real-time data flow differs from traditional request-response models. Additionally, the task improved my understanding of project structure, dependency management, and version control using Git.
 
 Overall, Task 2 was a valuable learning experience that strengthened my understanding of real-time application development. It demonstrated how modern web applications handle live data exchange and gave me hands-on experience in building a functional, real-time chat system with proper frontend and backend integration.
+
+*OUTPUT* : <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/df44a8b7-ea6a-46be-a4c3-78820f795d33" />
