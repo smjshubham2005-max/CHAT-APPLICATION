@@ -29,3 +29,5 @@ This task helped me gain practical exposure to real-time web technologies and un
 Overall, Task 2 was a valuable learning experience that strengthened my understanding of real-time application development. It demonstrated how modern web applications handle live data exchange and gave me hands-on experience in building a functional, real-time chat system with proper frontend and backend integration.
 
 *OUTPUT* : <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/df44a8b7-ea6a-46be-a4c3-78820f795d33" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/883a0d06-5010-4307-86e0-96ee67df4d4e" />
